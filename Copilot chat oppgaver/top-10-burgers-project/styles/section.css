@@ -1,0 +1,24 @@
+.section {
+  padding: 8rem 1rem;
+  border-bottom: 1px solid var(--black);
+}
+
+.section-content-container {
+  max-width: var(--large);
+  margin: 0 auto;
+}
+
+.section-intro {
+  padding: 0rem 0;
+}
+
+.intro-quote {
+  font-size: 3rem;
+  font-weight: 200;
+}
+
+.section-top-10-burgers > .section-content-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+}

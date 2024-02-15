@@ -1,0 +1,53 @@
+:root {
+  /* THEME COLORS */
+  --background: #f2eadc;
+  --primary: #f73a19;
+  --text: #2b2b2b;
+
+  /* COMMON COLORS */
+  --black: #000;
+  --white: #fff;
+
+  /* BREAKPOINTS */
+  --xxsmall: 320px;
+  --xsmall: 480px;
+  --small: 640px;
+  --medium: 768px;
+  --large: 1024px;
+  --xlarge: 1280px;
+  --xxlarge: 1536px;
+}
+
+* {
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 70px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--background);
+}
+
+h1 {
+  font-size: 3.5rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+p {
+  font-size: 1.25rem;
+}

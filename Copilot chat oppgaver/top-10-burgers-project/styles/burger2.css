@@ -1,0 +1,23 @@
+.burger-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8rem;
+}
+
+.burger-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+}
+
+.burger-text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.burger-image {
+  width: 100%;
+  height: auto;
+}

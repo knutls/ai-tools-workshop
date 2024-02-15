@@ -1,0 +1,33 @@
+.burger-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8rem;
+}
+
+.burger-container {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.burger-container-alternate {
+  flex-direction: row-reverse;
+}
+
+.burger-text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  flex: 2;
+  min-width: var(--xxsmall);
+}
+
+.burger-image-container {
+  flex: 1;
+  min-width: var(--xxsmall);
+}
+
+.burger-image {
+  width: 100%;
+  height: auto;
+}
