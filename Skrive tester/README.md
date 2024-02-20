@@ -1,6 +1,6 @@
 # Skrive tester med Github Copilot
 
-Bruk Github Copilot til å skrive tester til de funksjonene adder, subtraher og calculate_average, som ligger i filen Funksjoner.py. Marker funksjonene du vil skrive testene for, og spør Github Copilot Chat om hjelp. Skriv testene i Tester.py.
+Bruk Github Copilot til å skrive tester til funksjonene adder, subtraher og calculate_average, som ligger i filen Funksjoner.py. Marker funksjonene du vil skrive testene for, og spør Github Copilot Chat om hjelp. Skriv testene i Tester.py.
 
 ```python
 

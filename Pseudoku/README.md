@@ -1,6 +1,6 @@
 # Pseudoku
 
-Lag en sudokuløser med minst mulig skrevet manuell kode/instruksjoner, og uten å noen gang bruke ordet "sudoku". Minst mulig manuell kode/instruksjoner vinner! Du kan lage løsningen din i Pseudoko.py.
+Bruk Github Copilot/ChatGPT til å lage en sudokuløser med minst mulig skrevet manuell kode/instruksjoner, og uten å noen gang bruke ordet "sudoku". Minst mulig manuell kode/instruksjoner vinner! Du kan lage løsningen din i Pseudoku.py.
 
 Du kan bruke følgende eksempelbrett til å teste løsningen din:
 
