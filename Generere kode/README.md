@@ -1,6 +1,6 @@
 # Generer kode
 
-Her får du et sett med oppgaver for å teste Github Copilot/ChatGPT evne til å løse enkle problemer.
+Her får du et sett med oppgaver for å teste Github Copilot/ChatGPT sin evne til å løse enkle problemer.
 
 ## Oppgave 1
 

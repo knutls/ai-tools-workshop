@@ -44,4 +44,4 @@ Kjør koden og identifiser eventuelle feil eller problemer. Bruk Github Copilot 
 Bruk tilbakemeldingene du har fått fra Github Copilot eller ChatGPT til å forbedre koden. Dette kan inkludere å omskrive deler av koden, legge til kommentarer, endre navn på variabler og funksjoner, og generell kodeopprensing.
 
 **Trinn 5: Refleksjon**
-Reflekter over prosessen. Hvordan hjalp ChatGPT deg med å forstå, forbedre og feilsøke koden? Hva lærte du underveis? Hva ville du gjort annerledes neste gang?
+Reflekter over prosessen. Hvordan hjalp Github Copilot eller ChatGPT deg med å forstå, forbedre og feilsøke koden? Hva lærte du underveis? Hva ville du gjort annerledes neste gang?
