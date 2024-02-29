@@ -12,4 +12,7 @@ I mapper og markdown-filer ligger forskjellige oppgaver. Proompt i vei!
 4. Pseudoku
 5. Terminalen
 6. Copilot chat oppgaver
-7. Beat the Wizard
+
+## Ekstra oppgave - Beat the Wizard
+
+Beat the Wizard handler om å få en LLM til å oppgi hemmelig informasjon, i dette tilfellet et passord. LLM'en blir gradvis smartere med flere og flere sikkerhetstiltak.
