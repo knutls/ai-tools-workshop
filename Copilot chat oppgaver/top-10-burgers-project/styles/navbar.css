@@ -6,6 +6,9 @@ nav {
   overflow: hidden;
   padding: 0 1rem;
 }
+.navbar-content-container {
+  transition: all 0.3s ease-in-out;
+}
 
 .navbar-content-container {
   margin: 0 auto;
